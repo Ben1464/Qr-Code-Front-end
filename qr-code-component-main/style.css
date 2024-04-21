@@ -1,0 +1,21 @@
+.body{
+    background-color: #B2D3FD;
+}
+.image{
+    text-align: center;
+    
+}
+.image img{
+  
+   border-radius: 5px;
+   margin: 30px,30px;
+}
+.attribution{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.main{
+    background-color: #f5f5f5;
+}
